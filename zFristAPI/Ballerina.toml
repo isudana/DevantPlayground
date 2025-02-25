@@ -1,6 +1,0 @@
-[package]
-org = "isudana"
-name = "zfristapi"
-version = "0.1.0"
-
-bi = true
