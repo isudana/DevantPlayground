@@ -1,0 +1,6 @@
+[package]
+org = "isudana"
+name = "zzautomation"
+version = "0.1.0"
+
+bi = true
