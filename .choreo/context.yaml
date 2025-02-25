@@ -2,3 +2,5 @@
   project: zmyfirstintegration
 - org: isudana
   project: zintegrations
+- org: isudana
+  project: myintegrations
