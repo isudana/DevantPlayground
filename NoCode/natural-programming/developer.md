@@ -1,1 +1,0 @@
-Create a simple automation that prints hello world.
