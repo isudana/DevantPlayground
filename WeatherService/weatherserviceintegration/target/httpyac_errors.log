@@ -1,7 +1,0 @@
-Request to "http://localhost:8080/weather/{cityName}" has missing required parameters:
-
-Path Parameters:
-  - cityName
-
-
-Please provide values for these parameters before sending the request.
