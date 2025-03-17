@@ -4,3 +4,5 @@
   project: zintegrations
 - org: isudana
   project: myintegrations
+- org: isudana
+  project: default
