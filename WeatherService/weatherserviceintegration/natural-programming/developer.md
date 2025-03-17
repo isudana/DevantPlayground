@@ -1,0 +1,1 @@
+Create an API that accepts a city name as input and returns weather data. The implementation should utilize two backend services as specified in the provided OpenAPI specifications: a geolocation service and a weather service.

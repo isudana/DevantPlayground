@@ -1,0 +1,21 @@
+/*
+### Try Service: 'Default' (http://localhost:8080)
+
+*/
+/*
+#### GET /weather/{cityName}
+
+**Path Parameters:**
+- `cityName` [string] (Required)
+
+
+*/
+GET http://localhost:8080/weather/colombo
+
+HTTP/1.1 200  - OK
+content-type: application/json
+connection: close
+server: ballerina
+date: Mon, 17 Mar 2025 06:03:23 +0100
+content-encoding: gzip
+content-length: 351

@@ -1,0 +1,4 @@
+[package]
+org = "isuruu"
+name = "weatherserviceintegration"
+version = "0.1.0"
